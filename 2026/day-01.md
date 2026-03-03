@@ -69,7 +69,4 @@ MySQL is relational. Everything we learn — tables, joins, keys — is based on
 
 ---
 
-## My Notes
 
-Write your own thoughts here after reading.
-What confused you? What clicked? What do you want to remember?
