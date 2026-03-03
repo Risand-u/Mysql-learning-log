@@ -67,6 +67,5 @@ MySQL is relational. Everything we learn — tables, joins, keys — is based on
 - SQL skills learned here transfer to PostgreSQL, SQLite, and others
 - Comes with MySQL Workbench — a visual tool to write and run queries
 
----
 
 
