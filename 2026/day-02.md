@@ -89,8 +89,3 @@ These are different things. NULL is not zero, not false, not empty text.
 It just means unknown or missing.
 
 ---
-
-## My Notes
-
-Write your own thoughts here after reading.
-What confused you? What clicked? What do you want to remember?
