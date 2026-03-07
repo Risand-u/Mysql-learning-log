@@ -71,7 +71,3 @@ Think of it as just looking at the data, not touching it.
 
 ---
 
-## My Notes
-
-Write your own thoughts here after reading.
-What confused you? What clicked? What do you want to remember?
