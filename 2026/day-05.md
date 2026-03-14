@@ -22,7 +22,7 @@ Example — get only students who are 22 years old:
 
 SELECT * FROM students
 WHERE age = 22;
- 
+  
 ---
 
 ## Comparison Operators
