@@ -10,7 +10,7 @@ You use it with SELECT, UPDATE, and DELETE.
 
 Without WHERE you get every row.
 With WHERE you only get the rows that match your condition.
-
+ 
 ---
  
 ## Basic WHERE Syntax
