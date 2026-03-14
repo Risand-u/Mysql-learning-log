@@ -12,7 +12,7 @@ Without WHERE you get every row.
 With WHERE you only get the rows that match your condition.
 
 ---
-
+ 
 ## Basic WHERE Syntax
 
 SELECT * FROM table_name
